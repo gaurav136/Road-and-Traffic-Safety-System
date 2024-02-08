@@ -19,7 +19,7 @@ These are the steps to install all the requirements for the project.
 
 Clone and cd into the repo
 ```md
-https://github.com/gaurav136/Road-and-Traffic-Safety-System
+git clone https://github.com/gaurav136/Road-and-Traffic-Safety-System
 cd Road-and-Traffic-Safety-System
 ```
 

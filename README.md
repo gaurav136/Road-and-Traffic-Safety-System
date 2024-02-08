@@ -19,8 +19,8 @@ These are the steps to install all the requirements for the project.
 
 Clone and cd into the repo
 ```md
-git clone https://github.com/tusqasi/hackathon-2021
-cd hackathon-2021
+https://github.com/gaurav136/Road-and-Traffic-Safety-System
+cd Road-and-Traffic-Safety-System
 ```
 
 Now install the dependencies
